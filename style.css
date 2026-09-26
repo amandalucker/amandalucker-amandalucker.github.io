@@ -43,10 +43,6 @@ header.site-nav{
   display:flex; align-items:center; justify-content:space-between;
 }
 .brand{display:flex; align-items:center; gap:10px; text-decoration:none; color:var(--ink);}
-<!-- .brand-mark{
-  width:34px; height:34px; border:1.5px solid var(--ink);
-  display:flex; align-items:center; justify-content:center;
-  font-family:"IBM Plex Mono", monospace; font-size:13px; font-weight:600; -->
 .brand-mark{
 height:19px;
 width:auto;
