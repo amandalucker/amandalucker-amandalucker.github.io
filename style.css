@@ -114,6 +114,13 @@ h1.name{font-size:clamp(36px, 5.6vw, 58px); line-height:1.03; margin:0 0 18px; f
 .title-block .row .value a{text-decoration:none; font-weight:600;}
 .title-block .row .value a:hover{text-decoration:underline;}
 
+.project-thumb video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
 /* ---------- Section shell ---------- */
 section{padding:56px 0;}
 section.tight{padding:36px 0;}
